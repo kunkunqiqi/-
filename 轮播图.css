@@ -1,0 +1,40 @@
+.slideimg {
+  display: none;
+}
+.active {
+  display: inline-block;
+}
+#id-button-uext {
+  position: relative;
+  left: -153px;
+  top: -4px;
+}
+#id-button-next {
+  position: relative;
+  right: -153px;
+  top: -4px;
+}
+.slidebox {
+  text-align: center;
+  position: relative;
+}
+.whiteindicater {
+  text-align: center;
+  position: relative;
+  bottom: auto;
+  left: 580px;
+  top: -80px;
+  width: 200px;
+  height: 30px;
+}
+.indicators {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: red;
+  text-align: center;
+}
+.white {
+  background: white;
+}
